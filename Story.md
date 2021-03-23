@@ -1,1 +1,3 @@
-they were friends
+they were friends. 
+
+* new line added
